@@ -10,7 +10,9 @@
     ~/.bashrc:
     ~/.dotfiles: ''
     ~/.gitconfig: 
+    ~/.oh-my-zsh:
     ~/.profile:
+    ~/.shell.pre-oh-my-zsh:
     ~/.tmux.conf:
     ~/.vim:
     ~/.vimrc:
