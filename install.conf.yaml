@@ -10,7 +10,6 @@
     ~/.bashrc:
     ~/.dotfiles: ''
     ~/.gitconfig: 
-    ~/.oh-my-zsh:
     ~/.profile:
     ~/.tmux.conf:
     ~/.vim:
